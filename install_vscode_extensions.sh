@@ -1,23 +1,2 @@
-code --install-extension alefragnani.Bookmarks
-code --install-extension Dart-Code.dart-code
-code --install-extension Dart-Code.flutter
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension eamodio.gitlens
-code --install-extension esbenp.prettier-vscode
-code --install-extension flowtype.flow-for-vscode
-code --install-extension formulahendry.code-runner
-code --install-extension ms-vscode.cpptools
-code --install-extension msjsdiag.debugger-for-chrome
-code --install-extension redhat.java
-code --install-extension vscjava.vscode-java-debug
-code --install-extension vscjava.vscode-java-pack
-code --install-extension vscjava.vscode-java-test
-code --install-extension vscjava.vscode-maven
-code --install-extension pranaygp.vscode-css-peek
-code --install-extension xabikos.JavaScriptSnippets
-code --install-extension formulahendry.auto-close-tag
-code --install-extension humao.rest-client
-code --install-extension alefragnani.project-manager
-code --install-extension aaron-bond.better-comment
-code --install-extension pnp.polacode
+code --install-extension Shan.code-settings-sync
 
